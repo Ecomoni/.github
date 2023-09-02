@@ -1,6 +1,6 @@
 <h1 align="center"> 
 <a href="https://www.ecomoni.nl">
-<img src="https://github.com/Ecomoni/nestbox-raspberrypi/blob/main/logo.svg" alt="Ecomoni logo">
+<img src="https://github.com/Ecomoni/.github/blob/main/profile/logo.svg" alt="Ecomoni logo">
 </a>
 <br>
 <br>
